@@ -4,8 +4,10 @@
 
 <img align="center" src="https://github.com/saviomartin/saviomartin/blob/master/assets/about.png?raw=true"/>
 
-<!-- <h3> 👨🏻‍💻 About Me </h3> -->
+- 🌱 I’m currently learning Backend
+- 📫 How to reach me: rlaalsrlzld@naver.com
 
+<!-- <h3> 👨🏻‍💻 About Me </h3> -->
 
 <h3>🛠 Tech Stack</h3>
 

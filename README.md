@@ -22,4 +22,5 @@ Here are some ideas to get you started:
 -->
 
 ![Jelly6489's github stats](https://github-readme-stats.vercel.app/api?username=Jelly6489&show_icons=true)
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=Jelly6489)](https://solved.ac/Jelly6489)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jelly6489&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/Jelly6489/github-readme-stats)

@@ -41,7 +41,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="center" src="https://github.com/saviomartin/saviomartin/blob/master/assets/git.png?raw=true"/>
+<!-- <img align="center" src="https://github.com/saviomartin/saviomartin/blob/master/assets/git.png?raw=true"/> -->
+## My Github Status
 
 <img src="https://github-readme-stats.vercel.app/api?username=Jelly6489&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2">
 

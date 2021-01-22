@@ -69,6 +69,7 @@ Here are some ideas to get you started:
 
 ⭐️ From [Jelly6489](https://github.com/Jelly6489)
 
+<!--
 ```⠀⠀⠀⠀⠀⠀
 ▕▔▔▔▔▔▔▔▔▔▔▔╲       
 ▕╮   ╭┻┻╮╭┻┻╮  ╭▕╮   ╲      
@@ -78,4 +79,4 @@ Here are some ideas to get you started:
 ▕   ╭╮╰┳┳┳┳╯╰╯  ▕  ╰╯ ▏
 ▕   ╰╯┈┗┛┗┛┈╭╮  ▕╮   ┈▏
 ```
-
+-->
